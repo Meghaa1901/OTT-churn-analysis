@@ -52,4 +52,4 @@ Rivalytics OTT subscription data with account and subscription tables. Merged on
 
 ---
 
-Made by Meghaa Arun | [GitHub](https://github.com/Meghaa1901) | [LinkedIn](https://linkedin.com/in/meghaa-arun)
+Made by Meghaa Arun | [GitHub](https://github.com/Meghaa1901) | 
